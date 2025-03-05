@@ -1,0 +1,2 @@
+get_ipython().system('pip install mediapipe opencv-python pandas scikit-learn pyttsx3')
+get_ipython().system('pip install protobuf==4.25.3')
